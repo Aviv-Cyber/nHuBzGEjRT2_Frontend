@@ -1,6 +1,6 @@
-# {{APP_NAME}}
+# nHuBzGEjRT2
 
-- **Application Name:** {{APP_NAME}}
-- **Frontend Repository:** `{{FRONTEND_REPO}}`
-- **Live Pages URL:** [{{LIVE_URL}}]({{LIVE_URL}})
+- **Application Name:** nHuBzGEjRT2
+- **Frontend Repository:** `nHuBzGEjRT2_Frontend`
+- **Live Pages URL:** [https://aviv-cyber.github.io/nHuBzGEjRT2_Frontend/](https://aviv-cyber.github.io/nHuBzGEjRT2_Frontend/)
 - **Architecture:** VaultDB (AES-GCM Encrypted Endpoint + Cloudflare Worker Proxy)
